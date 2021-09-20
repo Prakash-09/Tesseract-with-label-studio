@@ -1,0 +1,9 @@
+.App {
+  margin: 0rem 2rem;
+  padding: 1rem 0rem;
+}
+.imagePreview, .imageText{
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 1rem;
+}
