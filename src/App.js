@@ -3,7 +3,8 @@ import './App.css';
 // import FirstSimpleSample from './components/simplesample/FirstSimpleSample';
 // import ImperativeTesseract from './components/imperative/ImperativeTesseract';
 // import UploadImage from './components/upload/UploadImage';
-import TesseractWithLs from './components/withlabelstudio/TesseractWithLs';
+// import TesseractWithLs from './components/withlabelstudio/TesseractWithLs';
+import ImperativeWithClass from './components/imperativeWithClass/ImperativeWithClass';
 
 function App() {
     return (
@@ -11,7 +12,8 @@ function App() {
             {/* <FirstSimpleSample /> */}
             {/* <ImperativeTesseract /> */}
             {/* <UploadImage /> */}
-            <TesseractWithLs />
+            {/* <TesseractWithLs /> */}
+            <ImperativeWithClass />
         </div>
     );
 }
